@@ -1,0 +1,9 @@
+Reference, Quantity, Value, Footprint, Datasheet, Part Number, Note
+DS1 ,1,DotMatrix,_Display:091_OLED_DISPLAY,https://www.raystar-optronics.com/oled-graphic-display-module/REA012832F.html,REA012832F,
+ENC1 ,1,Rotary_Encoder_Switch,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,http://www.farnell.com/datasheets/1837001.pdf?_ga=2.146544695.2071986345.1583145430-1634400480.1575982402,EC11E18244A5,
+H1 H2 H3 H4 ,4,MountingHole_Pad,MountingHole:MountingHole_2.1mm,~,,Mounting Hole
+H5 ,1,MountingHole_Pad,MountingHole:MountingHole_2.7mm_M2.5,~,,Mounting Hole
+JP1 JP2 JP3 ,3,SolderJumper_3_Bridged12,Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,~,,
+P2 P1 ,2,Conn_01x15,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf,PPPC151LFBN-RC,
+R2 R1 R3 ,3,10K,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,~,CFR16J10K,
+SW2 SW1 ,2,SW_Push,Button_Switch_THT:SW_PUSH_6mm,~,B3F6052,
